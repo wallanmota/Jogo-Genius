@@ -1,6 +1,9 @@
 # Jogo Genius
 
 Jogo Genius criado para praticar alguns conceitos de JavaScript.
+ - CSS Grid
+ - Manipulação de Array 
+ - Arrow Functions.
 
 Bootcamp da Eduzz na plataforma DIO
 
